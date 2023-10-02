@@ -33,3 +33,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+workspace.xml
