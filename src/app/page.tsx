@@ -7,7 +7,7 @@ export default function Home() {
   useEffect(() => {
 
     const ctx = canvans.current?.getContext('2d');
-    ctx?.fillRect(0, 0, 640, 640);
+    ctx?.fillRect(0, 0, 50, 50);
 
   }, []);
 

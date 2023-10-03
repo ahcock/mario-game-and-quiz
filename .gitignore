@@ -34,5 +34,14 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# IntelliJ project files
 .idea
-workspace.xml
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
+
+yarn.lock
+
