@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lts": "^1.2.0",
+    "n": "^9.1.0",
+    "next": "latest",
+    "prettier": "^3.0.3",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
     "@types/node": "latest",
+    "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "typescript": "latest"
   }
 }
